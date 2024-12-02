@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @Aun986489
+java.lang.RuntimeException: Not Found
+	at net.kdt.pojavlaunch.authenticator.microsoft.MicrosoftBackgroundLogin.checkMcProfile(MicrosoftBackgroundLogin.java:301)
+	at net.kdt.pojavlaunch.authenticator.microsoft.MicrosoftBackgroundLogin.lambda$performLogin$2$net-kdt-pojavlaunch-authenticator-microsoft-MicrosoftBackgroundLogin(MicrosoftBackgroundLogin.java:86)
+	at net.kdt.pojavlaunch.authenticator.microsoft.MicrosoftBackgroundLogin$$ExternalSyntheticLambda3.run(Unknown Source:8)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+	at java.lang.Thread.run(Thread.java:1012)
+ - 👋 Hi, I’m @Aun986489
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
